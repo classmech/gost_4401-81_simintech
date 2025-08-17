@@ -5,8 +5,4 @@
 
 ![](images/project.png)
 
-TODO:
 
-- [ ] Упростить код
-
-  
