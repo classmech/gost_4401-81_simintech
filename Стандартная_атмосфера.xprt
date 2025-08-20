@@ -188,7 +188,7 @@
      <caption>`Конечное время расчёта`</caption>
      <type>`0`</type>
      <mode>`1`</mode>
-     <value>`400`</value>
+     <value>`95`</value>
      <textvalue></textvalue>
      <fconstant>`0`</fconstant>
      <script>`SECTION Основные параметры`</script>
@@ -460,7 +460,7 @@
      <caption>`Показать все значения линий`</caption>
      <type>`2`</type>
      <mode>`1`</mode>
-     <value>`0`</value>
+     <value>`1`</value>
      <textvalue></textvalue>
      <fconstant>`0`</fconstant>
      <script>`SECTION Визуализация данных`</script>
@@ -965,12 +965,12 @@
   <name>`C:\Users\kidin\Documents\Projects\SimInTech\Стандартная_атмосфера\Стандартная_атмосфера.xprt`</name>
   <script></script>
   <visible>`1`</visible>
-  <x>`-331.572090134705`</x>
-  <y>`-250.468010209438`</y>
+  <x>`-6.47612136911028`</x>
+  <y>`19.7253035658117`</y>
   <width>`1557`</width>
   <height>`1076`</height>
-  <scalex>`1.94871709999994`</scalex>
-  <scaley>`1.94871709999994`</scaley>
+  <scalex>`0.999999999999967`</scalex>
+  <scaley>`0.999999999999967`</scaley>
   <angle>`0`</angle>
   <backcolor>`16777215`</backcolor>
   <transparent>`0`</transparent>
@@ -9206,7 +9206,7 @@
      <caption>`Суммарный вектор входов`</caption>
      <type>`5`</type>
      <mode>`0`</mode>
-     <value>`[632.634449222588]`</value>
+     <value>`[273.879147936489]`</value>
      <textvalue>`[0]`</textvalue>
      <fconstant>`2`</fconstant>
      <script></script>
@@ -13076,7 +13076,7 @@
      <caption>`Суммарный вектор входов`</caption>
      <type>`5`</type>
      <mode>`0`</mode>
-     <value>`[2.79385546146118E-12]`</value>
+     <value>`[1.40488891033073E-6]`</value>
      <textvalue>`[0]`</textvalue>
      <fconstant>`2`</fconstant>
      <script></script>
@@ -16946,7 +16946,7 @@
      <caption>`Суммарный вектор входов`</caption>
      <type>`5`</type>
      <mode>`0`</mode>
-     <value>`[995.9]`</value>
+     <value>`[186.65]`</value>
      <textvalue>`[0]`</textvalue>
      <fconstant>`2`</fconstant>
      <script></script>
@@ -20816,7 +20816,7 @@
      <caption>`Суммарный вектор входов`</caption>
      <type>`5`</type>
      <mode>`0`</mode>
-     <value>`[1.45260065492263E-6]`</value>
+     <value>`[0.0752809452134432]`</value>
      <textvalue>`[0]`</textvalue>
      <fconstant>`2`</fconstant>
      <script></script>
@@ -51582,7 +51582,7 @@
      <caption>`Суммарный вектор входов`</caption>
      <type>`5`</type>
      <mode>`0`</mode>
-     <value>`[99.9826457227391]`</value>
+     <value>`[0.013347563196975]`</value>
      <textvalue>`[0]`</textvalue>
      <fconstant>`2`</fconstant>
      <script></script>
@@ -54659,7 +54659,7 @@
     <active>`1`</active>
     <paramlist>
      <param>
-      <name>`График`</name>
+      <name>`allU`</name>
       <paramname>`allU`</paramname>
       <blockpath>`TimeGraphic_5`</blockpath>
      </param>
@@ -58015,7 +58015,7 @@
    <readonlyprops></readonlyprops>
    <extmodulname>`$(Root)\mbtylib.dll@block`</extmodulname>
    <calctemplate>`mbty_std.dll`#13#10`TToFile`</calctemplate>
-   <helpkeyword>`com_v_fajl`</helpkeyword>
+   <helpkeyword>`0016`</helpkeyword>
    <helpfile></helpfile>
    <ownerfilter></ownerfilter>
    <paramfile></paramfile>
@@ -58117,7 +58117,7 @@
      <type>`15`</type>
      <mode>`1`</mode>
      <value>
-      <items>`Пробел с выравниванием`#13#10`Табуляция`#13#10`Точка с запятой`#13#10`Запятая`</items>
+      <items>`Пробел с выравниванием`#13#10`Табуляция`#13#10`Точка с запятой`</items>
       <index>`1`</index>
      </value>
      <textvalue></textvalue>
